@@ -26,5 +26,5 @@ fn main() {
     input.get_ref().metadata().unwrap().len()
     );
     println!("Target len: {:?}", output.metadata().unwrap().len());
-    println!("Elapsed: {:?}", start.elapsed());
+    println!("Elapsed: {:?}", start.elapsed())ls a;
 }
